@@ -34,10 +34,10 @@ phases:
       - JEST_MAX_WORKERS=1 rush test
       - rush publish --pack --include-all --publish --release-folder ../artifacts/npm --version-policy external
 
-  artifacts:
-    files:
-      - artifacts/**/*
-    secondary-artifacts:
-      noZip:
-        files:
-          - artifacts/**/*
+artifacts:
+  files:
+    - artifacts/**/*
+  secondary-artifacts:
+    noZip:
+      files:
+        - artifacts/**/*
