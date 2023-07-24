@@ -11,22 +11,21 @@
  *  and limitations under the License.                                                                                *
  *********************************************************************************************************************/
 import 'reflect-metadata';
-
+import { Given, setDefaultTimeout, When, DataTable, Then } from '@cucumber/cucumber';
 import { Device20Resource, DevicesService } from '@awssolutions/cdf-assetlibrary-client';
-import { ASSETLIBRARY_CLIENT_TYPES } from '@awssolutions/cdf-assetlibrary-client/dist';
-import { DataTable, Given, Then, When, setDefaultTimeout } from '@cucumber/cucumber';
 import { fail } from 'assert';
-import { expect, use } from 'chai';
-import { Dictionary } from '../../../../libraries/core/lambda-invoke/src';
-import { container } from '../../di/inversify.config';
-import {
-    AUTHORIZATION_TOKEN,
-    RESPONSE_STATUS,
-    replaceTokens,
-    validateExpectedAttributes,
-} from '../common/common.steps';
 
 import chai_string = require('chai-string');
+import { expect, use } from 'chai';
+import {
+    RESPONSE_STATUS,
+    replaceTokens,
+    AUTHORIZATION_TOKEN,
+    validateExpectedAttributes,
+} from '../common/common.steps';
+import { ASSETLIBRARY_CLIENT_TYPES } from '@awssolutions/cdf-assetlibrary-client/dist';
+import { Dictionary } from '../../../../libraries/core/lambda-invoke/src';
+import { container } from '../../di/inversify.config';
 use(chai_string);
 
 /*
