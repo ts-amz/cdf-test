@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-logger",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-logger",
+  "email": "tylesams@amazon.com"
+}

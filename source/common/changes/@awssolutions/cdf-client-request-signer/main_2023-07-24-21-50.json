@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-client-request-signer",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-client-request-signer",
+  "email": "tylesams@amazon.com"
+}

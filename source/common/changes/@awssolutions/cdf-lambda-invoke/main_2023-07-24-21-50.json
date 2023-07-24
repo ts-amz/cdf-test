@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-lambda-invoke",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-lambda-invoke",
+  "email": "tylesams@amazon.com"
+}

@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-config-inject",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-config-inject",
+  "email": "tylesams@amazon.com"
+}

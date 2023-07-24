@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-organizationmanager-client",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-organizationmanager-client",
+  "email": "tylesams@amazon.com"
+}

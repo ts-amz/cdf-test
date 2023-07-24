@@ -1,0 +1,15 @@
+{
+  "changes": [
+    {
+      "changeType": 3,
+      "packageName": "@awssolutions/cdf-simulation-launcher"
+    },
+    {
+      "changeType": 1,
+      "comment": "Dependency @awssolutions/cdf-config-inject version bump from ^2.2.0 to ^0.0.0.",
+      "packageName": "@awssolutions/cdf-simulation-launcher"
+    }
+  ],
+  "packageName": "@awssolutions/cdf-simulation-launcher",
+  "email": "tylesams@amazon.com"
+}

@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-bulkcerts-client",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-bulkcerts-client",
+  "email": "tylesams@amazon.com"
+}

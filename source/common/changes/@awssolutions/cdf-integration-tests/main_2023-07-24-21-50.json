@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-integration-tests",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-integration-tests",
+  "email": "tylesams@amazon.com"
+}

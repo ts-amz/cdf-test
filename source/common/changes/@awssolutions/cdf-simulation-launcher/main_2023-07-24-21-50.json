@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-simulation-launcher",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-simulation-launcher",
+  "email": "tylesams@amazon.com"
+}

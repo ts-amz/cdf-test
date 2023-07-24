@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-environment-sanitizer",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-environment-sanitizer",
+  "email": "tylesams@amazon.com"
+}

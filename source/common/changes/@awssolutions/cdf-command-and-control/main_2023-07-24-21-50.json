@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-command-and-control",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-command-and-control",
+  "email": "tylesams@amazon.com"
+}

@@ -1,0 +1,25 @@
+{
+  "changes": [
+    {
+      "changeType": 3,
+      "packageName": "@awssolutions/cdf-assetlibrary-history"
+    },
+    {
+      "changeType": 1,
+      "comment": "Dependency @awssolutions/cdf-config-inject version bump from ^2.2.0 to ^0.0.0.",
+      "packageName": "@awssolutions/cdf-assetlibrary-history"
+    },
+    {
+      "changeType": 1,
+      "comment": "Dependency @awssolutions/cdf-errors version bump from ^2.2.0 to ^0.0.0.",
+      "packageName": "@awssolutions/cdf-assetlibrary-history"
+    },
+    {
+      "changeType": 1,
+      "comment": "Dependency @awssolutions/cdf-logger version bump from ^2.2.0 to ^0.0.0.",
+      "packageName": "@awssolutions/cdf-assetlibrary-history"
+    }
+  ],
+  "packageName": "@awssolutions/cdf-assetlibrary-history",
+  "email": "tylesams@amazon.com"
+}

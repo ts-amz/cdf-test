@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "changeType": 0,
+      "newVersion": "0.0.3",
+      "packageName": "@awssolutions/cdf-certificate-vendor",
+      "comment": ""
+    }
+  ],
+  "packageName": "@awssolutions/cdf-certificate-vendor",
+  "email": "tylesams@amazon.com"
+}
