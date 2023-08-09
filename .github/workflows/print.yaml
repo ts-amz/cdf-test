@@ -10,7 +10,7 @@ on:
 
 jobs:
   debug:
-    if: github.repository_owner == 'aws'
+    if: github.repository_owner != 'aws'
     runs-on: ubuntu-latest
 
     steps:
