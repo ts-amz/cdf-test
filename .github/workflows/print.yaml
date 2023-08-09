@@ -9,8 +9,8 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  if: github.repository_owner == 'aws'
   debug:
+    if: github.repository_owner == 'aws'
     runs-on: ubuntu-latest
 
     steps:
